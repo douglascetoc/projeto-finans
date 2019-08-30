@@ -1,0 +1,27 @@
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+#recursos {
+	background: #28a745;
+	color: white;
+}
+
+#beneficios {
+	background: #17a2b8;
+	color: white;
+}
+
+#trabalhe {
+	background: #ffc107;
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+footer p a {
+	margin: 5px 15px;
+}
